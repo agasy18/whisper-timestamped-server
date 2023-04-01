@@ -3,7 +3,7 @@
 
 
 This repository contains a FastAPI implementation of the Whisper Transcription API. 
-The API receives an audio file and transcribes it using the [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped.git). 
+The API receives an audio containing file and transcribes it using the [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped.git). 
 
 ## Getting Started
 
